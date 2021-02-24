@@ -1,4 +1,4 @@
-# MineSweeper-game-C- 2017
+# Minesweeper-game-C- 2017
 C-minesweeper game
 Display:
 -X-bomb.
