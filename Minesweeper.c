@@ -1,7 +1,3 @@
-/*
-osher abergil
-204634539
-SHULA game.*/
 
 #include <stdio.h>
 #include <stdlib.h>
